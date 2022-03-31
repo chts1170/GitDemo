@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-31T18:12:29 IST" name="Default suite" finished-at="2022-03-31T18:12:32 IST" duration-ms="3020">
+    <groups>
+    </groups>
+    <test started-at="2022-03-31T18:12:29 IST" name="Default test" finished-at="2022-03-31T18:12:32 IST" duration-ms="3020">
+      <class name="jiraApiTesting.RestAssuredApiTest">
+        <test-method is-config="true" signature="createSession()[pri:0, instance:jiraApiTesting.RestAssuredApiTest@58695725]" started-at="2022-03-31T18:12:29 IST" name="createSession" finished-at="2022-03-31T18:12:31 IST" duration-ms="2651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createSession -->
+        <test-method signature="getIssue()[pri:0, instance:jiraApiTesting.RestAssuredApiTest@58695725]" started-at="2022-03-31T18:12:32 IST" name="getIssue" finished-at="2022-03-31T18:12:32 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getIssue -->
+      </class> <!-- jiraApiTesting.RestAssuredApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
